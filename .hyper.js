@@ -13,7 +13,7 @@ module.exports = {
         color: 'yellow'
     },
     
-    webGLRenderer: 'false',
+    webGLRenderer: false,
     
     // default font size in pixels for all tabs
     fontSize: 13,
